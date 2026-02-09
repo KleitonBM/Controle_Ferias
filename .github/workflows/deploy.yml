@@ -19,7 +19,7 @@ jobs:
         run: npm install
 
       - name: Build Web
-        run: npm run build:web
+        run: npx expo export --platform web --no-ssg
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
