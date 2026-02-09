@@ -2,7 +2,6 @@
   "expo": {
     "name": "Controle_Ferias",
     "slug": "Controle_Ferias",
-    "version": "1.0.0",
     "web": {
       "bundler": "metro",
       "output": "static",
@@ -12,8 +11,7 @@
       [
         "expo-router",
         {
-          "origin": "https://kleitonbm.github.io/Controle_Ferias/",
-          "asyncRoutes": "web" 
+          "origin": "https://kleitonbm.github.io/Controle_Ferias/"
         }
       ]
     ]
