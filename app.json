@@ -1,12 +1,11 @@
 {
   "expo": {
-    "name": "Seu App",
+    "name": "Controle_Ferias",
     "slug": "Controle_Ferias",
-    "version": "1.0.0",
     "web": {
       "bundler": "metro",
       "output": "static",
-      "baseUrl": "/Controle_Ferias" 
+      "baseUrl": "/Controle_Ferias"
     }
   }
 }
