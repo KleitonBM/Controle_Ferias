@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Controle_Ferias/static/js/main.411ac5e9.js",
+    "static/js/559.bcf4f1ad.js": "/Controle_Ferias/static/js/559.bcf4f1ad.js",
+    "favicon.ico": "/Controle_Ferias/favicon.ico",
+    "index.html": "/Controle_Ferias/index.html",
+    "favicon-32.png": "/Controle_Ferias/favicon-32.png",
+    "favicon-16.png": "/Controle_Ferias/favicon-16.png",
+    "manifest.json": "/Controle_Ferias/manifest.json",
+    "serve.json": "/Controle_Ferias/serve.json",
+    "main.411ac5e9.js.map": "/Controle_Ferias/static/js/main.411ac5e9.js.map",
+    "559.bcf4f1ad.js.map": "/Controle_Ferias/static/js/559.bcf4f1ad.js.map"
+  },
+  "entrypoints": [
+    "static/js/559.bcf4f1ad.js",
+    "static/js/main.411ac5e9.js"
+  ]
+}
